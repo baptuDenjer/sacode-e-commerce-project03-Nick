@@ -1,2 +1,1 @@
-# sacode-e-commerce-project03-Nick
-Introduction to Bootstrap Framework
+Introduction to CSS Bootstrap Framework (1)
